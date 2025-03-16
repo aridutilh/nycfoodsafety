@@ -1,4 +1,4 @@
-# NYC Food Safety
+# 👨‍🍳🌱 NYC Food Safety
 
 Search for restaurant inspection results in New York City using data from the Department of Health and Mental Hygiene.
 
